@@ -105,5 +105,21 @@ installing GTkWave
 
 UART means Universal Asynchronous Receiver Transmitter Protocol. UART is used for serial communication from the name itself we can understand the functions of UART, where U stands for Universal which means this protocol can be applied to any transmitter and receiver, and A is for Asynchronous which means one cannot use clock signal for communication of data and R and T refers to Receiver and Transmitter hence UART refers to a protocol in which serial data communication will happen without clock signal. 
 
-![image](https://github.com/Shreejalsrai/VSD/assets/160627157/f1eb44bd-5242-49a2-9b11-3116374e588c)
+
 </details>
+
+### The third online meet was held on 22nd of Feb 2024 @6PM
+<details>
+    <summary> TASK 3 </summary>
+
+![WhatsApp Image 2024-02-26 at 4 56 39 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/441558c6-8142-4591-b562-63f73691c740)
+
+![WhatsApp Image 2024-02-26 at 4 56 27 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/8b2e7d98-1aa4-41f5-98c8-fc2d2c65db54)
+![WhatsApp Image 2024-02-26 at 4 56 18 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/d56c25dc-b585-482f-896f-fa09210c66d3)
+![WhatsApp Image 2024-02-26 at 4 56 48 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/17f41e2d-6969-4b16-95f1-9f4406679297)
+
+</details>
+  
+    
+
+
