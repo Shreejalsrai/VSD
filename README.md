@@ -119,7 +119,26 @@ UART means Universal Asynchronous Receiver Transmitter Protocol. UART is used fo
 ![WhatsApp Image 2024-02-26 at 4 56 48 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/17f41e2d-6969-4b16-95f1-9f4406679297)
 
 </details>
-  
+
+### The third online meet was held on 27th of Feb 2024 @6PM
+<details>
+    <summary> TASK 4 </summary>
+   
+![WhatsApp Image 2024-02-29 at 12 16 15 PM (2)](https://github.com/Shreejalsrai/VSD/assets/160627157/7a3a419f-c330-4d3f-b57d-c3926907e69a)
+![WhatsApp Image 2024-02-29 at 12 16 15 PM (1)](https://github.com/Shreejalsrai/VSD/assets/160627157/3b82c49f-becd-47d8-bfaa-d866bd8c4138)
+![WhatsApp Image 2024-02-29 at 12 33 50 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/970a3fc8-a50f-4bfb-976b-1014ec3f1276)
+![WhatsApp Image 2024-02-29 at 12 33 51 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/a93dfc4e-db76-41b3-bacd-e951f4e52589)
+![WhatsApp Image 2024-02-29 at 12 32 04 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/c460c3dd-1015-4c41-9105-b14ad05fe606)
+![WhatsApp Image 2024-02-29 at 12 32 03 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/7b48685f-4fb3-4628-a80f-e16317c69b2d)
+![WhatsApp Image 2024-02-29 at 12 32 04 PM (1)](https://github.com/Shreejalsrai/VSD/assets/160627157/19ab2a58-6154-4a16-841a-d6f2abf418d4)
+![WhatsApp Image 2024-02-29 at 12 16 14 PM (1)](https://github.com/Shreejalsrai/VSD/assets/160627157/700db014-6cda-4abf-aa7f-e13a292ee219)
+![WhatsApp Image 2024-02-29 at 12 16 14 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/ed5aeea5-a2e5-4757-9b37-46cc77e01aa3)
+![WhatsApp Image 2024-02-29 at 12 17 03 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/c121e60a-4a43-4d10-912f-4f6518756db0)
+
+</details>
+
+
+
     
 
 
