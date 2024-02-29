@@ -120,7 +120,7 @@ UART means Universal Asynchronous Receiver Transmitter Protocol. UART is used fo
 
 </details>
 
-### The third online meet was held on 27th of Feb 2024 @6PM
+### The fourth online meet was held on 27th of Feb 2024 @6PM
 <details>
     <summary> TASK 4 </summary>
    
