@@ -126,14 +126,43 @@ UART means Universal Asynchronous Receiver Transmitter Protocol. UART is used fo
    
 ![WhatsApp Image 2024-02-29 at 12 16 15 PM (2)](https://github.com/Shreejalsrai/VSD/assets/160627157/7a3a419f-c330-4d3f-b57d-c3926907e69a)
 ![WhatsApp Image 2024-02-29 at 12 16 15 PM (1)](https://github.com/Shreejalsrai/VSD/assets/160627157/3b82c49f-becd-47d8-bfaa-d866bd8c4138)
-![WhatsApp Image 2024-02-29 at 12 33 50 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/970a3fc8-a50f-4bfb-976b-1014ec3f1276)
-![WhatsApp Image 2024-02-29 at 12 33 51 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/a93dfc4e-db76-41b3-bacd-e951f4e52589)
-![WhatsApp Image 2024-02-29 at 12 32 04 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/c460c3dd-1015-4c41-9105-b14ad05fe606)
-![WhatsApp Image 2024-02-29 at 12 32 03 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/7b48685f-4fb3-4628-a80f-e16317c69b2d)
-![WhatsApp Image 2024-02-29 at 12 32 04 PM (1)](https://github.com/Shreejalsrai/VSD/assets/160627157/19ab2a58-6154-4a16-841a-d6f2abf418d4)
 ![WhatsApp Image 2024-02-29 at 12 16 14 PM (1)](https://github.com/Shreejalsrai/VSD/assets/160627157/700db014-6cda-4abf-aa7f-e13a292ee219)
-![WhatsApp Image 2024-02-29 at 12 16 14 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/ed5aeea5-a2e5-4757-9b37-46cc77e01aa3)
-![WhatsApp Image 2024-02-29 at 12 17 03 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/c121e60a-4a43-4d10-912f-4f6518756db0)
+![WhatsApp Image 2024-03-05 at 2 46 12 PM (2)](https://github.com/Shreejalsrai/VSD/assets/160627157/d0d3672f-bc75-4e0f-abd5-5afdb26d295d)
+![WhatsApp Image 2024-03-05 at 2 46 12 PM (3)](https://github.com/Shreejalsrai/VSD/assets/160627157/530f595d-776e-4d78-99f4-6b72341907f1)
+![WhatsApp Image 2024-03-05 at 2 46 13 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/715cf90b-1b15-41d4-b387-5c1a772f3438)
+![WhatsApp Image 2024-03-05 at 2 46 13 PM (1)](https://github.com/Shreejalsrai/VSD/assets/160627157/fcf5dace-07f4-421f-ab64-6d103f952e52)
+![WhatsApp Image 2024-03-05 at 2 46 13 PM (6)](https://github.com/Shreejalsrai/VSD/assets/160627157/6d9c3417-7dec-4a97-b191-54732d284479)
+![WhatsApp Image 2024-03-05 at 2 46 14 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/a4f67a2b-56ba-440e-8173-726e0208b16c)
+![WhatsApp Image 2024-03-05 at 2 46 14 PM (1)](https://github.com/Shreejalsrai/VSD/assets/160627157/298fd494-6b75-4f25-9971-9812f98bbf3b)
+![WhatsApp Image 2024-03-05 at 2 46 12 PM (1)](https://github.com/Shreejalsrai/VSD/assets/160627157/b83e50a2-d163-41a0-84af-c92f09f00e8c)
+![WhatsApp Image 2024-03-05 at 2 46 12 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/a4200067-aebc-4a1e-9bf8-2b138e499f64)
+
+
+</details>
+
+### The fifth online meet was held on 1st of March 2024 @6PM
+<details>
+    <summary> TASK 5 </summary>
+
+![WhatsApp Image 2024-03-05 at 3 05 54 PM (7)](https://github.com/Shreejalsrai/VSD/assets/160627157/3f1daa1f-beef-4e53-ad77-ba72b2fabe48)
+![WhatsApp Image 2024-03-05 at 3 05 54 PM (8)](https://github.com/Shreejalsrai/VSD/assets/160627157/22462401-52c3-4855-8ff4-54618e040087)
+![WhatsApp Image 2024-03-05 at 3 05 54 PM (9)](https://github.com/Shreejalsrai/VSD/assets/160627157/eb665edb-3f0d-446a-9dc0-8817e57b30f2)
+![WhatsApp Image 2024-03-05 at 3 05 54 PM (2)](https://github.com/Shreejalsrai/VSD/assets/160627157/76583664-8e0f-4279-996b-909f0fbae312)
+![WhatsApp Image 2024-03-05 at 3 05 54 PM (3)](https://github.com/Shreejalsrai/VSD/assets/160627157/5a497699-9c7a-424a-a126-5d43f16bf89f)
+![WhatsApp Image 2024-03-05 at 3 05 54 PM (4)](https://github.com/Shreejalsrai/VSD/assets/160627157/30b4544b-228f-4094-a59b-5d4c09dbe242)
+![WhatsApp Image 2024-03-05 at 3 05 54 PM (5)](https://github.com/Shreejalsrai/VSD/assets/160627157/70b5fd13-f041-4e42-9ef9-89151a8c12aa)
+![WhatsApp Image 2024-03-05 at 3 05 54 PM (6)](https://github.com/Shreejalsrai/VSD/assets/160627157/a8345919-217b-4739-8516-af22acfd263d)
+![WhatsApp Image 2024-03-05 at 3 05 54 PM (10)](https://github.com/Shreejalsrai/VSD/assets/160627157/3f392a52-c714-46ba-9227-a0c9800cfbc9)
+![WhatsApp Image 2024-03-05 at 3 05 54 PM (11)](https://github.com/Shreejalsrai/VSD/assets/160627157/32f9a681-0ecb-485c-9ea6-51c65b47dcbb)
+![WhatsApp Image 2024-03-05 at 3 05 55 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/8041c571-71f8-4d97-944e-ba3f73072201)
+![WhatsApp Image 2024-03-05 at 3 05 56 PM (2)](https://github.com/Shreejalsrai/VSD/assets/160627157/b1dc9d58-ee17-4506-8245-3f1e4753558f)
+![WhatsApp Image 2024-03-05 at 3 05 56 PM (3)](https://github.com/Shreejalsrai/VSD/assets/160627157/eb89de13-8534-4e38-bc2a-3f7aa949d5d8)
+![WhatsApp Image 2024-03-05 at 3 05 56 PM (4)](https://github.com/Shreejalsrai/VSD/assets/160627157/f18cf519-4daf-4d64-aef7-510b493aaa39)
+![WhatsApp Image 2024-03-05 at 3 05 56 PM (6)](https://github.com/Shreejalsrai/VSD/assets/160627157/d58af89d-7cc9-4047-b232-20a1d045a026)
+![WhatsApp Image 2024-03-05 at 3 05 56 PM (5)](https://github.com/Shreejalsrai/VSD/assets/160627157/4ce8c124-6212-4a23-bc5f-6d0b248a422c)
+![WhatsApp Image 2024-03-05 at 3 05 54 PM (1)](https://github.com/Shreejalsrai/VSD/assets/160627157/6fe9ccab-8501-4b33-84c4-6c082ceab12a)
+![WhatsApp Image 2024-03-05 at 3 05 54 PM](https://github.com/Shreejalsrai/VSD/assets/160627157/cc29aa1f-876e-4d16-913f-2a91734a4426)
+
 
 </details>
 
